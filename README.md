@@ -1,12 +1,13 @@
 # Super-calculator
 This is a super calculator(It can do more work than the costliest calculator available) made using python
 <!--This is the version 1 of my calculator. I received a lot of help from Mr.Techtroid for this project-->
-# How is this different from THe original calculator?
+# How is this different from The original calculator?
 Ans:I have made it more user friendly.
 # What should we run to get the calculator?
 Ans:You have to justrun index.html for running the Supercalculator.
-<p>This is my first version more versions will come soon</p>
-<p>This version has following features</p>
+# This is the first version more versions will come soon.
+As soon as possible... 
+# This version has following features
 <b>Features</b>
 <ul>
   <li>Normal Calculator: This calculator has normal operators like addition,subtraction.....</li>
