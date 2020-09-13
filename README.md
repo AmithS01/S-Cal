@@ -1,10 +1,10 @@
 # Super-calculator
 This is a super calculator(It can do more work than the costliest calculator available) made using python
-<!--This is the version 1 of my calculator. I received a lot of help from Mr.Techtroid for this project-->
+This is the version 1 of my calculator. I received a lot of help from Mr.Techtroid and P S Mithul Sourav for this project
 # How is this different from The original calculator?
 Ans:I have made it more user friendly.
 # What should we run to get the calculator?
-Ans:You have to justrun index.html for running the Supercalculator.
+Ans:You have to just run index.html for running the Supercalculator.
 # This is the first version more versions will come soon.
 As soon as possible... 
 # This version has following features
